@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### [Installation](Bulk Loader - Installation.md#Installation)
+### [Installation](Introduction.md#Installation)
 
 ## Overview - Functional Description
 
