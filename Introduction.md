@@ -31,7 +31,7 @@ Run the provided installation file and follow the installation steps in order to
 
 During the installation process, user can set the installation directory where the application will be installed. The default location is on root of the system partition.
 
-![](C:\Users\NMiletic\Desktop\ems-tools\Figures\img001.png)
+![Figure](Figures\img001.png)
 
 Figure 1‑1 Setting EMS Bulk Loader installation directory
 
