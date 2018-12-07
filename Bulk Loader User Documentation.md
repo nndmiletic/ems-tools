@@ -1,8 +1,8 @@
 # Table of Contents
 
-[Introduction]: Bulk-Loader-User-Documentation.md	"Introduction"
+## Introduction
 
-Installation
+### [Installation](Bulk Loader - Installation.md#Installation)
 
 ## Overview - Functional Description
 
